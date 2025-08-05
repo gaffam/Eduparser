@@ -1,0 +1,10 @@
+# Core dependencies
+pdfplumber
+python-docx
+beautifulsoup4
+streamlit
+
+# Optional dependencies for FAISS indexing
+# Install with: pip install -r requirements.txt -r requirements-faiss.txt
+# Optional dependency for OpenAI-style token counting
+# tiktoken
